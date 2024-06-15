@@ -256,22 +256,22 @@ a31111111111111111111111aaaa1111111113a3a31111111111111111111111aaaa1111111113a3
 `;
             case "*I3x=@AnYTeNAqrIrfN5":
             case "stand":return img`
-. . . . . . b b b b . . . . . . 
-. . . . b b 3 3 3 3 b b . . . . 
-. . . c b 3 3 3 3 1 1 b c . . . 
-. . c b 3 3 f f 3 1 1 1 b c . . 
-. c c 1 1 1 f 1 3 f f 1 3 c c . 
-c c d 1 1 1 3 3 3 3 f 3 3 b c c 
-c b d d 1 3 3 3 3 3 1 1 1 b b c 
-c b b b 3 3 1 1 3 3 1 1 d d b c 
-c b b b b d d 1 1 3 b d d d b c 
-. c b b b b d d b b b b b b c . 
-. . c c b b b b b b b b c c . . 
-. . . . c c c 1 c c c c . . . . 
-. . . . . b d d 1 b . . . . . . 
-. . . . b b d d 1 b b . . . . . 
-. . . . b d d 1 1 1 b . . . . . 
-. . . . b d d 1 1 1 b . . . . . 
+. . . . . . . . b b b b . . . . 
+. . . . b b b b 3 3 3 3 b . . . 
+. c c b b 1 1 3 3 3 3 3 b b . . 
+c c b 3 1 1 3 3 3 3 3 1 1 b . . 
+c b 3 3 3 3 3 3 3 3 3 1 1 b . . 
+f b b c c c c b 3 3 3 3 3 c . . 
+f b c c c d d d b b 3 3 3 3 c . 
+f b c b d d d d d d b b 3 3 b c 
+. c b d c d d d d d d b c 3 3 c 
+. c d d c d d d c d d c c c 3 f 
+. f d d d d d c d d d c c c b f 
+. f d b b b d d b f f c c c b f 
+. . c d d d d b d d b f b b f f 
+. . . c d d d b b d d f f f f . 
+. . . f f b b f b b b b . . . . 
+. . . f b b b f f . . . . . . . 
 `;
         }
         return null;

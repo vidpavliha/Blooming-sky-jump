@@ -1,5 +1,5 @@
 {
-    "name": "Jungle jump",
+    "name": "Blooming sky jump",
     "description": "",
     "dependencies": {
         "device": "*",
@@ -16,7 +16,8 @@
         "tilemap.g.ts",
         "images.g.jres",
         "images.g.ts",
-        "pxt.json"
+        "pxt.json",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
